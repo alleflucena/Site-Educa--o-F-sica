@@ -106,9 +106,11 @@ main > ul {
 }
 
 iframe {
+    display: flex;
     text-align: center;
-    max-width: 300px;
-    max-height: 150px;
+    margin: 10px 10px 10px 50px;
+    max-width: 400px;
+    max-height: 250px;
 }
 
 .card {
